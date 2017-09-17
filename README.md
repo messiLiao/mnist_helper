@@ -11,7 +11,7 @@ $ git clone https://github.com/messiLiao/mnist_helper.git
 ```
 #### 下载数据集并解压
 会在当前目录(mnist_helper)建立MNIST_data文件夹，并解压
-```python
+```bash
 $ cd mnist_helper
 $ python mnist_download_and_ungz.py
 ```
