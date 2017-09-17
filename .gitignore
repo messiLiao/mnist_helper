@@ -1,0 +1,7 @@
+MNIST_data
+output_merge_file-ubyte
+user_data/user-images-ubyte
+user_data/user-labels-ubyte
+*.pyc
+output_extract
+README.html
